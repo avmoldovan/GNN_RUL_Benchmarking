@@ -47,6 +47,13 @@ if __name__ == "__main__":
     method_bearing_names = ['ST_GCN', 'SAGCN', 'STNet', 'GAT_LSTM', 'STMSGCN', 'AGCN_TF', 'LOGO_bearing',
                     'HierCorrPool_bearing', 'GDAGDL']
 
+    args["experiment_description"] = "exp1"
+    args["run_description"] = "run_1"
+    args["GNN_method"] = "FC_STGNN"
+    args["dataset"] = "CMAPSS"
+    args["dataset_id"] = "FD004"
+    args["bearing_id"] = "Testing_bearing_1"
+    args["num_runs"] = 5
     trainer = GNN_RUL_trainer(args)
     trainer.train()
 

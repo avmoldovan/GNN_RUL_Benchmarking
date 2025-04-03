@@ -1,0 +1,13 @@
+Data_Process/XJTU-SY_Bearing_Datasets/
+__pycache__/
+Data_Process/CMAPSSData.zip
+Data_Process/data_set.zip
+Data_Process/XJTU-SY_Bearing_Datasets.part01.rar
+Data_Process/XJTU-SY_Bearing_Datasets.part02.rar
+Data_Process/XJTU-SY_Bearing_Datasets.part03.rar
+Data_Process/XJTU-SY_Bearing_Datasets.part04.rar
+Data_Process/XJTU-SY_Bearing_Datasets.part05.rar
+Data_Process/XJTU-SY_Bearing_Datasets.part06.rar
+Data_Process/ieee-phm-2012-data-challenge-dataset-master.zip
+experiments_logs/
+venv/
